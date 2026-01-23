@@ -1,0 +1,11 @@
+if __name__ == '__main__':
+    a = int(input()) 
+    b = int(input()) 
+
+
+su = a + b 
+print(su)
+dif = a - b 
+print(dif)
+mul = a * b
+print(mul)
