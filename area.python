@@ -1,0 +1,5 @@
+# Update the '_' below to solve the problem
+
+print(13* 11)          # Area of the rectangle
+
+print(2*(20 + 4))    # Perimeter of the rectangle
